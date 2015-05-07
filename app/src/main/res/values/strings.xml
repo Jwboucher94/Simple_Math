@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Math</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pleaseAnswer">Please answer these questions:</string>
+    <string name="equals">=</string>
+</resources>
